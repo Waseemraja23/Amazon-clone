@@ -1,0 +1,188 @@
+nav {
+    border: 1px solid rgb(23, 24, 39);
+    width: 100%;
+    height: 6.5vh;
+    display: flex;
+    /* justify-content: space-around; */
+    align-items: center;
+}
+
+.nav {
+    color: white;
+    background-color: rgb(23, 24, 39);
+}
+.nav1{
+    display: flex;
+    /* justify-content: center; */
+    /* align-items: center; */
+    width: 65%;
+}
+/* .nav2{
+    display: flex;
+    justify-content: end;
+    he
+} */
+
+.box {
+    /* border: 1px solid rgb(192, 188, 188); */
+    font-size: 14px;
+    font-family: arial, sans-serif;
+    /* width: 70vw; */
+    /* height: 6.23vh; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.a {
+    width: 20vw;
+    margin-left: 1vw;
+    border: 0px solid white;
+}
+
+.a:hover {
+    border: 1px solid white;
+    width: 20vw;
+    height: 6.23vh;
+    margin-left: 1vw;
+}
+
+.fresh {
+    width: 25vw;
+    border: 0px solid white;
+}
+
+.fresh:hover {
+    border: 1px solid white;
+    width: 25vw;
+    height: 6.23vh;
+}
+
+.tv {
+    width: 50vw;
+    border: 0px solid white;
+}
+
+.tv:hover {
+    border: 1px solid white;
+    width: 50vw;
+    height: 6.23vh;
+}
+
+.sell {
+    width: 20vw;
+    border: 0px solid white;
+}
+
+.sell:hover {
+    border: 1px solid white;
+    width: 20vw;
+    height: 6.23vh;
+}
+
+.best {
+    width: 35vw;
+    border: 0px solid white;
+}
+
+.best:hover {
+    border: 1px solid white;
+    width: 35vw;
+    height: 6.23vh;
+}
+
+.mobile {
+    width: 25vw;
+    border: 0px solid white;
+}
+
+.mobile:hover {
+    border: 1px solid white;
+    width: 25vw;
+    height: 6.23vh;
+}
+
+.today {
+    width: 45vw;
+    border: 0px solid white;
+}
+
+.today:hover {
+    border: 1px solid white;
+    width: 45vw;
+    height: 6.23vh;
+}
+
+.electronics {
+    width: 37vw;
+    border: 0px solid white;
+}
+
+.electronics:hover {
+    border: 1px solid white;
+    width: 37vw;
+    height: 6.23vh;
+}
+
+.customer {
+    width: 60vw;
+    border: 0px solid white;
+}
+
+.customer:hover {
+    border: 1px solid white;
+    width: 60vw;
+    height: 6.23vh;
+}
+
+.new {
+    width: 45vw;
+    border: 0px solid white;
+}
+
+.new:hover {
+    border: 1px solid white;
+    width: 45vw;
+    height: 6.23vh;
+}
+
+
+.prime{
+    background: none;
+    border: none;
+    color: white;
+    width: 70px;
+    height: 6.23vh;
+}
+.prime:hover{
+    border: 1px solid white;
+    width: 70px;
+    height: 6.23vh;
+}
+.launch{
+    height: 35px;
+    width: 395px;
+    margin-left: 4.6rem;
+    background-color: rgb(12, 12, 37);
+}
+.launch:hover{
+    border: 1px solid white;
+    width: 395px;
+    height: 5vh;
+}
+
+
+
+
+
+
+
+
+
+
+

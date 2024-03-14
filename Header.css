@@ -1,0 +1,214 @@
+body {
+    margin: 0;
+    padding: 0;
+    border: 0px solid black;
+    /* background-color: aquamarine; */
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+header {
+    border: 1px solid #121b1b;
+    width: 99.9%;
+    height: 60px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: sticky;
+    top: 0px;
+    background-color: #121b1b;
+}
+
+.logo {
+    /* border: 1px solid white; */
+    width: 140px;
+    height: 50px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-left: 10px;
+}
+
+.logo:hover {
+    border: 1px solid white;
+    width: 140px;
+    height: 50px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+
+.address {
+    width: 200px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.address:hover {
+    border: 1px solid white;
+    width: 200px;
+    height: 50px;
+}
+
+.location {
+    font-size: x-large;
+    color: white;
+    padding: 10px;
+}
+
+.himachal {
+    font-size: smaller;
+    color: white;
+}
+
+
+.himachal1 {
+    color: white;
+    font-weight: bold;
+}
+
+.search {
+    width: 630px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+.all {
+    height: 40px;
+    /* color: white; */
+    /* font-size: large; */
+    border: none;
+    width: 2.8rem;
+    background-color: white;
+    opacity: 70%;
+    border-radius: 4px 0 0 4px;
+}
+
+.all:hover {
+    opacity: 80%;
+}
+
+.placeholder {
+    width: 520px;
+    border: none;
+    height: 2.4rem;
+
+}
+
+.all2 {
+    background-color: orange;
+    border-radius: 0 5px 5px 0;
+    /* border: 1px solid black; */
+    border: none;
+    height: 40px;
+    opacity: 80%;
+    width: 40px;
+}
+
+.all2:hover {
+    opacity: 90%;
+}
+
+
+.language:hover {
+    border: 1px solid white;
+    width: 90px;
+    height: 50px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.language {
+    width: 90px;
+    height: 50px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.flag {
+    width: 30px;
+    height: 20px;
+}
+
+.flag1 {
+    width: 40px;
+    height: 25px;
+    border: 0px;
+    background-color: #121b1b;
+    color: white;
+}
+
+.signin:hover {
+    border: 1px solid white;
+    width: 120px;
+    height: 50px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.signin {
+    width: 120px;
+    height: 50px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    color: white;
+    font-size: smaller;
+}
+
+.signin1 {
+    background-color: #121b1b;
+    border: none;
+    color: white;
+}
+
+.return {
+    width: 80px;
+    height: 50px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    color: white;
+    font-size: smaller;
+}
+
+.return:hover {
+    border: 1px solid white;
+    width: 80px;
+    height: 50px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+
+.cart:hover {
+    border: 1px solid white;
+    width: 90px;
+    height: 50px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.cart {
+    /* border: 1px solid black; */
+    width: 90px;
+    height: 50px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
